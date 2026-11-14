@@ -1,1 +1,1 @@
-{"id":"local.kinowatch.webos","version":"0.1.11","sha256":"3b94a52270f2f801d14b2f7f8b0d111a70ed8c109a9a431e0d1e26ca97010742"}
+{"id":"local.kinowatch.webos","version":"0.1.12","sha256":"126200f9464cb99148e3a4bca3d5bd2f5e3ffa2e453f6eb16dad3084b7225d46","changes":["При запуске Kino.Watch предложит обновиться, если вышла новая версия.","Перед установкой можно прочитать, что изменилось, и отложить обновление."]}
